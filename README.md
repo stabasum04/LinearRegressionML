@@ -29,7 +29,7 @@ To get started with this project, follow these steps:
 
 1. Clone this repository:
 
-   >>git clone https://github.com/dummyuser/ML-Linear-Regression-Model.git
+   >>[git clone https://github.com/stabasum04/ML-Linear-Regression-Model.git]
    >>cd ML-Linear-Regression-Model
  
 
